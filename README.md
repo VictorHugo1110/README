@@ -1,1 +1,2 @@
-# README
+- 📓 Cursadno engenharia de software
+  
